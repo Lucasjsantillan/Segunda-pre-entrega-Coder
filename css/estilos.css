@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+:root {
+    font-family: "Abel", sans-serif;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 65%;
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin: 10rem 0rem;
+    color: #000000;
+}
+
+body {
+    background-image: url(/img/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
