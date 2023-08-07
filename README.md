@@ -1,7 +1,7 @@
-# Segunda-pre-entrega-Coder
-Estructura-variables-y-objetos #
+<h1> Segunda-pre-entrega-Coder
+Estructura-variables-y-objetos </h1>
 
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h3 align="center">Hi 👋, I'm Lucas</h3>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
 <p align="left"> <a href="https://twitter.com/lucasjsantillan" target="blank"><img src="https://img.shields.io/twitter/follow/lucasjsantillan?logo=twitter&style=for-the-badge" alt="lucasjsantillan" /></a> </p>
